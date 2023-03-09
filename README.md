@@ -1,4 +1,4 @@
-### **Ola Me chamo *Carlos Eduardo* **
+### Ola Me chamo *Carlos Eduardo*
 - 🔭 Atualmente estou trabalhando em Python
 - 🌱 Atualmente estou aprendendo Git
 - 💬 Pergunte-me sobre `JavaScript`
