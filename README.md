@@ -1,11 +1,19 @@
-### - Ola Me chamo *Carlos Eduardo*
+# Olá 👋, meu nome é Ícaro Joel
+
+### Ola Me chamo *Carlos Eduardo*
 - 🔭 Atualmente estou trabalhando em Python
 - 🌱 Atualmente estou aprendendo Git
 - 💬 Pergunte-me sobre `JavaScript`
 - 📫 Como chegar até mim: [Fale comigo por aqui](mailto:eu.carlos.dev@gmail.com)
 - ⚡ Curiosidade: sou proplayer de **Valorant**
 
-### - Linguagens e ferramentas:
+### Conecte-se comigo:
+<p align="left">
+<a href="https://www.linkedin.com/in/icaro-moura-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ícaro joel moura pinto" height="30" width="40" /></a>
+</p>
+
+
+### Linguagens e ferramentas:
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
