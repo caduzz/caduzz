@@ -1,4 +1,4 @@
-<h3 align="center">Olá, meu nome é Carlos Eduardo 🤏😎</h3>
+<h1 align="center">Olá, meu nome é Carlos Eduardo 🤏😎</h1>
 
 - 🔭 Atualmente estou trabalhando em Python
 - 🌱 Atualmente estou aprendendo Git
