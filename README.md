@@ -8,9 +8,8 @@
 
 ### Conecte-se comigo:
 <p align="left">
-<a href="https://www.linkedin.com/in/icaro-moura-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ícaro joel moura pinto" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/cadu-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Carlos Eduardo Cardoso Gonçalves" height="30" width="40" /></a>
 </p>
-
 
 ### Linguagens e ferramentas:
 <p align="left"> 
