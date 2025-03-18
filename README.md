@@ -8,15 +8,18 @@ Desde jovem, sempre fui fascinado por tecnologia e como ela pode transformar o m
 
 ## 🔧 Tecnologias & Ferramentas
 
-Front-end: React.js, Vue.js, HTML, CSS, JavaScript, TypeScript
+Frontend
+- HTML5, CSS3, JavaScript
+- React, Next.js, TypeScript, Tailwind CSS
 
-Back-end: Node.js, Express, Django, Flask
+Backend
+- Node.js, Express, Python, Django, RESTful APIs, GraphQL
 
-Banco de Dados: PostgreSQL, MySQL, Firebase, MongoDB
+Database
+= MongoDB, PostgreSQL, MySQL, Firebase, Prisma
 
-Mobile: React Native, Flutter
-
-Outros: Git, Docker, API REST, Firebase
+Outras Skills
+- Git, GitHub, Docker, Jest, Webpack
 
 ## 📫 Como me encontrar?
 
