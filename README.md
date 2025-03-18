@@ -8,17 +8,18 @@ Desde jovem, sempre fui fascinado por tecnologia e como ela pode transformar o m
 
 ## 🔧 Tecnologias & Ferramentas
 
-Frontend
+⚛️ Frontend
 - HTML5, CSS3, JavaScript
 - React, Next.js, TypeScript, Tailwind CSS
 
-Backend
-- Node.js, Express, Python, Django, RESTful APIs, GraphQL
+🖥️ Backend
+- Node.js, Express, Python, Django
+- RESTful APIs, GraphQL
 
-Database
-= MongoDB, PostgreSQL, MySQL, Firebase, Prisma
+🗄️Database
+- MongoDB, PostgreSQL, MySQL, Firebase, Prisma
 
-Outras Skills
+🔍 Outras Skills
 - Git, GitHub, Docker, Jest, Webpack
 
 ## 📫 Como me encontrar?
