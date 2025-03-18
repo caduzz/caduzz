@@ -25,6 +25,3 @@ Desde jovem, sempre fui fascinado por tecnologia e como ela pode transformar o m
 ## 📫 Como me encontrar?
 
 📧 Email: eu.carlos.dev@gmail.com
-
-Vamos construir algo incrível juntos! 🚀
-
